@@ -1,0 +1,12 @@
+# requirements.txt
+
+Flask
+tensorflow
+numpy
+h5py
+gunicorn 
+Pillow
+argparse
+matplotlib
+pandas
+flask-cors
